@@ -213,7 +213,4 @@ public class NoteActivity extends AppCompatActivity implements RealmChangeListen
 
         adapter.notifyDataSetChanged();
     }
-
-
-
 }
